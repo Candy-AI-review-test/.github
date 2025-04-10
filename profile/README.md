@@ -1,4 +1,5 @@
 <h1>Candy AI Review (2025): Is This Virtual AI Companion Platform Worth It?</h1>
+<p><strong>User of Candy AI</strong> | <time datetime="2025-04-10">10 Avril, 2025</time></p>
 
 <img src="https://rowmance.net/wp-content/uploads/2024/08/worldexplorer_two_female_23_year_old_models_vs_each_other_sel_0a972a78-415b-404b-a147-02d34b671be7_2-1024x585.png"
   alt="Candy AI perfect girlfriend"

@@ -19,6 +19,11 @@
 
 <h3>Quarterly Plan: Advantages and Cost Savings</h3>
 
+<img src="https://i.pinimg.com/736x/96/57/8c/96578c793fafa7c77c50380daca4f3f8.jpg"
+  alt="Exemple of girlfriend generation in Candy AI"
+  width="70%"
+/>
+
 <p>The quarterly subscription is outlined as a midway option, priced affordably at $9.99 per month, billed every three months. Users gain approximately 23% in savings compared to the monthly option. This pricing structure caters particularly to individuals looking for a balanced blend of savings and moderate flexibility without the risk associated with extended commitment. Advantages include:</p>
 
 <ul>

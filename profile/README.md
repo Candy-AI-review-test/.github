@@ -43,6 +43,8 @@
   width="60%"
 />
 
+👉<a target="_blank" href="https://tinyurl.com/4s8eawb8">Click here to get your Girlfriend !</a>
+
 <p>The annual Candy AI subscription presents the strongest financial advantage. At a cost-efficient rate of $5.99 per month billed yearly, subscribers benefit from savings of approximately 54% compared to monthly billing. This pricing offers the most significant value and is suited ideally for dedicated users fully embracing Candy AI’s functionalities.</p>
 
 <p>Key considerations when choosing the annual subscription:</p>
@@ -63,6 +65,8 @@
   alt="Screen of the girlfriend galery on Candy AI"
   width="50%"
 />
+
+👉<a target="_blank" href="https://tinyurl.com/4s8eawb8">Click here to get your Girlfriend !</a>
 
 <h3>Realistic and Customizable AI Companions Creation</h3>
 <p>Candy AI stands out by offering users in-depth customization tools to create unique AI companions tailored entirely to individual preferences. Users define:</p>
@@ -97,6 +101,8 @@
   alt="Exemple of girlfriend generation in Candy AI"
   width="40%"
 />
+
+👉<a target="_blank" href="https://tinyurl.com/4s8eawb8">Click here to get your Girlfriend !</a>
 
 <p>Candy AI focuses heavily on usability, ensuring effortless navigation for all users. The intuitive design helps both inexperienced and advanced users quickly adapt and begin interactions without frustration. Here's what you can expect:</p>
 <ul>
@@ -149,3 +155,5 @@
   </tr>
 </tbody></table>
 <p>Candy AI offers a solid digital companionship experience, balancing impressive features and affordability, but users must remain aware of privacy considerations.</p>
+
+👉<a target="_blank" href="https://tinyurl.com/4s8eawb8">Click here to get your Girlfriend !</a>

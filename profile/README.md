@@ -40,17 +40,12 @@
 
 <img src="https://media.discordapp.net/attachments/337687742488117261/1359934021236162640/image.png?ex=67f948c1&is=67f7f741&hm=a830e4fff325deabe114c7b5d4adc8b19b9a5d31feb51794b6f33a3a63401d13&=&format=webp&quality=lossless"
   alt="Pricing Plan for Candy AI"
-  width="40%"
+  width="60%"
 />
 
 <p>The annual Candy AI subscription presents the strongest financial advantage. At a cost-efficient rate of $5.99 per month billed yearly, subscribers benefit from savings of approximately 54% compared to monthly billing. This pricing offers the most significant value and is suited ideally for dedicated users fully embracing Candy AI’s functionalities.</p>
 
 <p>Key considerations when choosing the annual subscription:</p>
-
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*R2GrLURQvcBWHtH4FXYDrA.jpeg"
-  alt="Exemple of girlfriend generation in Candy AI"
-  width="40%"
-/>
 
 <ul>
   <li>Potential yearly savings of around $84 compared to the monthly payment option.</li>
@@ -63,6 +58,11 @@
 <p>Candy AI is an innovative and customizable artificial intelligence platform designed for creating engaging virtual companions. Unlike traditional chatbots, Candy AI offers users a realistic virtual friendship or relationship experience, deeply personalized based on preferred looks, personality traits, interests, and conversation style. Users can effortlessly build their ideal AI assistant through a simple interface, customizing everything from appearance to detailed personality nuances.</p>
 
 <h2>Main Features Offered By Candy AI</h2>
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*R2GrLURQvcBWHtH4FXYDrA.jpeg"
+  alt="Exemple of girlfriend generation in Candy AI"
+  width="40%"
+/>
 
 <h3>Realistic and Customizable AI Companions Creation</h3>
 <p>Candy AI stands out by offering users in-depth customization tools to create unique AI companions tailored entirely to individual preferences. Users define:</p>

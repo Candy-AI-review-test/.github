@@ -17,12 +17,14 @@
 
 <p>Priced at $12.99 per month, Candy AI's monthly plan offers users maximum flexibility. This option is particularly advantageous for individuals wanting to test the extended capabilities of the platform without making a long-term commitment. It allows subscribers access to advanced AI companion customization, unlimited engaging conversations, NSFW chat options, as well as voice messaging features and AI-generated selfies. It's the ideal choice for those not yet ready for long-term financial engagement or who prefer occasional use.</p>
 
-<h3>Quarterly Plan: Advantages and Cost Savings</h3>
-
 <img src="https://i.pinimg.com/736x/96/57/8c/96578c793fafa7c77c50380daca4f3f8.jpg"
   alt="Exemple of girlfriend generation in Candy AI"
   width="40%"
 />
+
+👉<a target="_blank" href="https://tinyurl.com/4s8eawb8">Click here to get your Girlfriend !</a>
+
+<h3>Quarterly Plan: Advantages and Cost Savings</h3>
 
 <p>The quarterly subscription is outlined as a midway option, priced affordably at $9.99 per month, billed every three months. Users gain approximately 23% in savings compared to the monthly option. This pricing structure caters particularly to individuals looking for a balanced blend of savings and moderate flexibility without the risk associated with extended commitment. Advantages include:</p>
 
@@ -39,6 +41,11 @@
 <p>The annual Candy AI subscription presents the strongest financial advantage. At a cost-efficient rate of $5.99 per month billed yearly, subscribers benefit from savings of approximately 54% compared to monthly billing. This pricing offers the most significant value and is suited ideally for dedicated users fully embracing Candy AI’s functionalities.</p>
 
 <p>Key considerations when choosing the annual subscription:</p>
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*R2GrLURQvcBWHtH4FXYDrA.jpeg"
+  alt="Exemple of girlfriend generation in Candy AI"
+  width="40%"
+/>
 
 <ul>
   <li>Potential yearly savings of around $84 compared to the monthly payment option.</li>

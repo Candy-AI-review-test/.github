@@ -59,9 +59,9 @@
 
 <h2>Main Features Offered By Candy AI</h2>
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*R2GrLURQvcBWHtH4FXYDrA.jpeg"
-  alt="Exemple of girlfriend generation in Candy AI"
-  width="40%"
+<img src="https://cdn.discordapp.com/attachments/337687742488117261/1359934467128561947/image.png?ex=67f9492b&is=67f7f7ab&hm=baaad2287aaa9bac44f34ceede9b0cbd412a125760136ebb789697f6cd4b1ec7&"
+  alt="Screen of the girlfriend galery on Candy AI"
+  width="50%"
 />
 
 <h3>Realistic and Customizable AI Companions Creation</h3>
@@ -92,6 +92,12 @@
 </ul>
 
 <h2>User Experience and Platform's Ease of Use</h2>
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*R2GrLURQvcBWHtH4FXYDrA.jpeg"
+  alt="Exemple of girlfriend generation in Candy AI"
+  width="40%"
+/>
+
 <p>Candy AI focuses heavily on usability, ensuring effortless navigation for all users. The intuitive design helps both inexperienced and advanced users quickly adapt and begin interactions without frustration. Here's what you can expect:</p>
 <ul>
   <li>Simple user-friendly interface facilitating companion personalization — appearance, personality traits, and interests.</li>

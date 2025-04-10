@@ -118,6 +118,8 @@
   <li>Data privacy concerns due to possible data collection from ongoing interactions and user-shared personal information.</li>
   <li>Exposure to uncensored conversations requires responsible usage, as content could potentially have an emotional impact on sensitive users.</li>
 </ul>
+👉<a target="_blank" href="https://tinyurl.com/4s8eawb8">Click here to get your Girlfriend !</a>
+
 <p>It is advisable that users exercise caution and remain mindful when sharing their personal details with any AI platform.</p>
 
 <h2>Candy AI Customer Support: Our Honest Evaluation</h2>

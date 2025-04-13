@@ -62,7 +62,7 @@
 
 <h2>Main Features Offered By Candy AI</h2>
 
-<img src="https://cdn.discordapp.com/attachments/337687742488117261/1359934467128561947/image.png?ex=67f9492b&is=67f7f7ab&hm=baaad2287aaa9bac44f34ceede9b0cbd412a125760136ebb789697f6cd4b1ec7&"
+<img src="https://imgur.com/a/o8DD6zT"
   alt="Screen of the girlfriend galery on Candy AI"
   width="50%"
 />

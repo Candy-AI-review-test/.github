@@ -62,7 +62,7 @@
 
 <h2>Main Features Offered By Candy AI</h2>
 
-<img src="https://imgur.com/a/o8DD6zT"
+<img src="https://res.cloudinary.com/dkyoj7pdi/image/upload/v1744560754/deeded_nvtub4.png"
   alt="Screen of the girlfriend galery on Candy AI"
   width="50%"
 />
